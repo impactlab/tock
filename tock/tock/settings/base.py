@@ -70,7 +70,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, "static")
 STATIC_URL = '/static/'
 
 ALLOWED_EMAIL_DOMAINS = {
-    'gsa.gov',
+    'impactlab.co',
 }
 
 REST_FRAMEWORK = {
